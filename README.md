@@ -1,6 +1,6 @@
 <!-- MATRIX HACKER BANNER -->
 <p align="center">
-  <img src="https://media.tenor.com/hlKDa1k9srUAAAAd/hacker-hack.gif" width="500">
+  <img src="[https://media.tenor.com/hlKDa1k9srUAAAAd/hacker-hack.gif](https://media1.tenor.com/m/gHYyb5KCG_gAAAAd/mfpurrs-matrix.gif)" width="500">
 </p>
 
 
@@ -92,7 +92,7 @@ php-template
 Copy code
 
 <p align="center">
-  <img src="https://tenor.com/view/mfpurrs-matrix-the-matrix-cat-hacker-gif-9256641538887392248" width="500">
+  <img src="[https://tenor.com/view/mfpurrs-matrix-the-matrix-cat-hacker-gif-9256641538887392248](https://media1.tenor.com/m/gHYyb5KCG_gAAAAd/mfpurrs-matrix.gif)" width="500">
 </p>
 
 
