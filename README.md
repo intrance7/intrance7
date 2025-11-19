@@ -1,7 +1,8 @@
 <!-- MATRIX HACKER BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/f6T9X6d.gif" width="800">
+  <img src="https://i.imgur.com/9b0xJbG.gif" width="800">
 </p>
+
 
 <h1 align="center">🟩 root@Tanishq:~$ whoami</h1>
 <h3 align="center">Cyber Security Student | Python Developer | Tech Explorer</h3>
@@ -90,5 +91,6 @@ php-template
 Copy code
 
 <p align="center">
-  <img src="https://i.imgur.com/nYVTU0S.gif" width="500">
+  <img src="https://i.imgur.com/9b0xJbG.gif" width="800">
 </p>
+
