@@ -1,7 +1,8 @@
 <!-- MATRIX HACKER BANNER -->
 <p align="center">
-  <img src="https://media.tenor.com/2uyENR9y6i4AAAAC/red-code.gif" width="800">
+  <img src="https://media.tenor.com/hlKDa1k9srUAAAAd/hacker-hack.gif" width="500">
 </p>
+
 
 
 <h1 align="center">🟩 root@Tanishq:~$ whoami</h1>
@@ -91,7 +92,8 @@ php-template
 Copy code
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENR9y6i4AAAAC/red-code.gif" width="800">
+  <img src="https://media.tenor.com/hlKDa1k9srUAAAAd/hacker-hack.gif" width="500">
 </p>
+
 
 
