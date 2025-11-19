@@ -16,9 +16,6 @@ Branch: B.Tech CSE (Cyber Security)
 Passion: Ethical Hacking, Python, Automation
 Goal: Become a skilled Cybersecurity Analyst
 
-yaml
-Copy code
-
 ---
 
 ## 🟢 Skills
@@ -28,9 +25,6 @@ Copy code
 [+] Networking Fundamentals
 [+] Git / GitHub
 [+] HTML, CSS, JS
-
-yaml
-Copy code
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,kali" />
@@ -45,9 +39,6 @@ Library Inventory Manager (Python)
 ✔ JSON File Storage
 ✔ Clean CLI UI
 ✔ Logging + Error Handling
-
-yaml
-Copy code
 
 ---
 
@@ -68,9 +59,6 @@ Copy code
 [+] GitHub → https://github.com/intrance7
 [+] Email → tanishqsethi760@gmail.com
 
-php-template
-Copy code
-
 <p align="center">
   <a href="https://www.linkedin.com/in/tanishq-sethi-70649a271/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -87,9 +75,6 @@ Copy code
 
 ## 🟢 Terminal Quote
 root@Tanishq:~$ echo "The quieter you become, the more you can hear."
-
-php-template
-Copy code
 
 <p align="center">
   <img src="https://media1.tenor.com/m/7MwCSePuPqQAAAAd/skidding-skid.gif" width="500">
