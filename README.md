@@ -1,6 +1,6 @@
 <!-- MATRIX HACKER BANNER -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/lghPVIp9724AAAAC/elriel-numbpill.gif" width="200">
+  <img src="https://media1.tenor.com/m/lghPVIp9724AAAAC/elriel-numbpill.gif" width="300">
 </p>
 
 
