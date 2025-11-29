@@ -43,14 +43,16 @@ Library Inventory Manager (Python)
 ---
 
 ## 🟢 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=intrance7&show_icons=true&theme=chartreuse-dark" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=intrance7&theme=chartreuse-dark" width="48%">
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=intrance7&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=intrance7&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intrance7&layout=compact&theme=chartreuse-dark" width="40%">
+  <img src="https://streak-stats.demolab.com?user=intrance7&theme=tokyonight&border_radius=5" height="180" />
 </p>
+
 
 ---
 
