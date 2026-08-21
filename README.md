@@ -85,17 +85,17 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Activity & Real-Time Analytics
 
 <div align="center">
 
-<p>
-  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=intrance7&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9D&text_color=9E9E9E&icon_color=00FF9D&bg_color=0D1117" height="165" alt="Tanishq's GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=intrance7&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9D&text_color=9E9E9E&bg_color=0D1117" height="165" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=intrance7&theme=tokyo-night&hide_border=true&area=true&color=00FF9D" width="100%" alt="Activity Graph" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=intrance7&theme=tokyonight&hide_border=true&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&background=0D1117" height="175" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=intrance7&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" height="175" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=intrance7&theme=tokyonight" height="175" alt="Language Breakdown" />
 </p>
 
 </div>
