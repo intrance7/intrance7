@@ -1,0 +1,62 @@
+<svg width="588" height="278" viewBox="0 0 588 278" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgZera" x1="0" y1="0" x2="588" y2="278" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B0F14"/>
+      <stop offset="100%" stop-color="#0A1412"/>
+    </linearGradient>
+    <radialGradient id="glowZera" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(500 36) scale(290 190)">
+      <stop offset="0%" stop-color="#00FF9D" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#00FF9D" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clipZera">
+      <rect x="1" y="1" width="586" height="276" rx="18"/>
+    </clipPath>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", "Fira Code", Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#clipZera)">
+    <rect width="588" height="278" fill="url(#bgZera)"/>
+    <rect width="588" height="278" fill="url(#glowZera)"/>
+    <rect x="0" y="0" width="588" height="3" fill="#00FF9D"/>
+
+    <rect x="26" y="24" width="212" height="24" rx="12" fill="#00FF9D" fill-opacity="0.12" stroke="#00FF9D" stroke-opacity="0.32"/>
+    <text x="132" y="40" text-anchor="middle" fill="#6EE7B7" font-size="10.5" font-weight="700" letter-spacing="1" class="mono">FLAGSHIP · AI CYBERSECURITY</text>
+
+    <rect x="466" y="24" width="96" height="24" rx="12" fill="#00FF9D" fill-opacity="0.1" stroke="#00FF9D" stroke-opacity="0.25"/>
+    <text x="514" y="40" text-anchor="middle" fill="#00FF9D" font-size="11" font-weight="700" class="mono">★ 20+ Stars</text>
+
+    <text x="26" y="88" fill="#FFFFFF" font-size="28" font-weight="800" letter-spacing="-0.6" class="sans">Zeravynex</text>
+    <text x="26" y="114" fill="#A1A1AA" font-size="13.5" class="sans">Explainable AI malware analysis platform fusing PE structural</text>
+    <text x="26" y="133" fill="#A1A1AA" font-size="13.5" class="sans">inspection, YARA rule scanning, and live threat triage analytics.</text>
+
+    <g transform="translate(26, 152)" font-size="12" class="mono">
+      <text x="0" y="14" fill="#00FF9D">▸</text>
+      <text x="16" y="14" fill="#D4D4D8">PE Binary Static Analysis + Entropy &amp; Import Table Scoring</text>
+      <text x="0" y="34" fill="#00FF9D">▸</text>
+      <text x="16" y="34" fill="#D4D4D8">Custom YARA Rule Engine + SHAP Explainability Attribution</text>
+      <text x="0" y="54" fill="#00FF9D">▸</text>
+      <text x="16" y="54" fill="#D4D4D8">React + TypeScript Real-Time Triage Dashboard &amp; FastAPI</text>
+    </g>
+
+    <line x1="26" y1="224" x2="562" y2="224" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <g transform="translate(26, 236)" class="mono" font-size="11">
+      <rect x="0" y="0" width="84" height="24" rx="8" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.1"/>
+      <text x="42" y="16" text-anchor="middle" fill="#E4E4E7">TypeScript</text>
+
+      <rect x="92" y="0" width="68" height="24" rx="8" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.1"/>
+      <text x="126" y="16" text-anchor="middle" fill="#E4E4E7">Python</text>
+
+      <rect x="168" y="0" width="74" height="24" rx="8" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.1"/>
+      <text x="205" y="16" text-anchor="middle" fill="#E4E4E7">FastAPI</text>
+
+      <rect x="250" y="0" width="84" height="24" rx="8" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.1"/>
+      <text x="292" y="16" text-anchor="middle" fill="#E4E4E7">SHAP · YARA</text>
+
+      <text x="536" y="16" text-anchor="end" fill="#00FF9D" font-weight="700">Explore Repo →</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="586" height="276" rx="18" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="1.2"/>
+</svg>
