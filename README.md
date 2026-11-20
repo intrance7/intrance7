@@ -93,6 +93,14 @@
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/intrance7/intrance7/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/intrance7/intrance7/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/intrance7/intrance7/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub Contribution Snake" />
+</picture>
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=intrance7&theme=tokyo-night&bg_color=0D1117&color=00FF9D&line=00FF9D&point=38BDF8&area=true&area_color=00FF9D&hide_border=true&radius=12" width="100%" alt="Tanishq Sethi GitHub Activity Graph" />
 
 <br/>
